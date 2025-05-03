@@ -2,7 +2,7 @@
 - 👀 I’m interested in software application development.
 - 🌱 I’m currently learning webdesign languages such as HTML/CSS, Javascript...
 - 💞️ I’m looking to collaborate on any project in order to farm experiences.
-- 📫 How to reach me : https://www.linkedin.com/in/vick-ye/
+- 📫 Discord : vico2456
 - 😄 Pronouns: He.
 - ⚡ Fun fact: Love escape games and speaks 3 languages fluently (French, Chinese, English).
 
